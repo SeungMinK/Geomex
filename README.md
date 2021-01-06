@@ -2,4 +2,5 @@
 2021.01.06 ~ 
 
 1. jsp 배우기
-2. postgreSQL jdbc 연결하기
+2. postgreSQL JDBC 연결하기
+3. 데이터베이스에서 데이터 가져와서 웹에서 출력하기
