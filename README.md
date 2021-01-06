@@ -1,5 +1,5 @@
-<strong>[Geomex] 솔루션 개발본부 2팀 인턴</strong>
-2021.01.06 ~ 
+<strong>[Geomex] 솔루션 개발본부 2팀 인턴</strong><br>
+2021.01.06 ~ <br>
 
 <br>
 <strong>1주차</strong> <br>
